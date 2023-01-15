@@ -1,3 +1,4 @@
 # 这个项目是本次的任务
 有几个bug实在找不到了
 apk:ArdroidStuWorkPlace2\app\myupapp\build\outputs\apk\debug\myupapp-debug.apk
+ArdroidStuWorkPlace2\app\myupapp是这次任务的项目
