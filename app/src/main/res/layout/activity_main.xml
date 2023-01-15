@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/hyk"
+        android:textColor="@color/black"
+        android:textStyle="italic"
+        android:gravity="center_vertical"
+        android:textSize="30sp"
+        android:background="#00000000"
+
+        android:shadowColor="@color/teal_200"
+        android:shadowRadius="03"
+        android:shadowDx="20"
+        android:shadowDy="10"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+
+        android:text="@string/text_one"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+        <requestFocus/>
+    </TextView>
+
+</LinearLayout>
